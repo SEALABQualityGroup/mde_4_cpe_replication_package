@@ -1,6 +1,6 @@
 # E-Shopper UML models
 
-This folder contains UML models exported as images. In particular:
+This folder includes UML models exported as images. In particular:
  - itinial sub-folder is the initial model
  - clone_web sub-folder is the refactored model by the *clone action* on *web-conainer*
  - clone_items sub-folder is the refactored model by the *clone action* on *items-container*
