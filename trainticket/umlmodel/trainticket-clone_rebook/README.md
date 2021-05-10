@@ -1,4 +1,4 @@
-# E-Shopper UML models - Clone Rebook 
+# Train-Ticket UML models - Clone Rebook 
 
 Static View through UML Component Diagram
 
