@@ -1,4 +1,4 @@
-# E-Shopper UML models - Initial Model
+# Train-Ticket UML models - Initial Model
 
 Static View through UML Component Diagram
 
