@@ -1,4 +1,4 @@
-# E-Shopper UML models - Clone Admin-User
+# Train-Ticket UML models - Clone Admin-User
 
 Static View through UML Component Diagram
 
