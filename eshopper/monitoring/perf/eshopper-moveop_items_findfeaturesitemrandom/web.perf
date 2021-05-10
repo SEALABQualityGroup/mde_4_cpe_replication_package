@@ -1,0 +1,14 @@
+
+ Performance counter stats for process id '24014':
+
+     459186.229938      task-clock (msec)         #    0.957 CPUs utilized          
+           113,285      context-switches          #    0.247 K/sec                  
+            25,683      cpu-migrations            #    0.056 K/sec                  
+         4,185,699      page-faults               #    0.009 M/sec                  
+   833,888,236,404      cycles                    #    1.816 GHz                    
+ 1,891,169,368,868      instructions              #    2.27  insn per cycle         
+   293,292,548,836      branches                  #  638.722 M/sec                  
+     1,977,536,069      branch-misses             #    0.67% of all branches        
+
+     600.004687065 seconds time elapsed
+

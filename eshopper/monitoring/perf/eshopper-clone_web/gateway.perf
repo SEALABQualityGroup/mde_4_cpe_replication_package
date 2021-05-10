@@ -1,0 +1,14 @@
+
+ Performance counter stats for process id '4483':
+
+      51250.747849      task-clock (msec)         #    0.107 CPUs utilized          
+           212,778      context-switches          #    0.004 M/sec                  
+            38,964      cpu-migrations            #    0.760 K/sec                  
+           964,736      page-faults               #    0.019 M/sec                  
+    68,306,439,648      cycles                    #    1.333 GHz                    
+    57,396,699,070      instructions              #    0.84  insn per cycle         
+    11,024,945,424      branches                  #  215.118 M/sec                  
+       532,534,496      branch-misses             #    4.83% of all branches        
+
+     600.005843604 seconds time elapsed
+

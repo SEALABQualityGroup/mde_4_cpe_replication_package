@@ -1,0 +1,14 @@
+
+ Performance counter stats for process id '13217':
+
+      46892.783256      task-clock (msec)         #    0.098 CPUs utilized          
+           183,405      context-switches          #    0.004 M/sec                  
+            46,336      cpu-migrations            #    0.988 K/sec                  
+         1,386,850      page-faults               #    0.030 M/sec                  
+    65,766,000,126      cycles                    #    1.402 GHz                    
+    52,533,148,042      instructions              #    0.80  insn per cycle         
+    10,056,315,501      branches                  #  214.453 M/sec                  
+       475,269,154      branch-misses             #    4.73% of all branches        
+
+     600.008051282 seconds time elapsed
+

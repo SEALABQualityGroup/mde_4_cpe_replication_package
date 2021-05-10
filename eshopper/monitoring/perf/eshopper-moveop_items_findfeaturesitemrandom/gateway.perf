@@ -1,0 +1,14 @@
+
+ Performance counter stats for process id '21881':
+
+      50155.326200      task-clock (msec)         #    0.104 CPUs utilized          
+           184,194      context-switches          #    0.004 M/sec                  
+            46,328      cpu-migrations            #    0.924 K/sec                  
+         1,390,082      page-faults               #    0.028 M/sec                  
+    70,196,192,138      cycles                    #    1.400 GHz                    
+    55,792,137,501      instructions              #    0.79  insn per cycle         
+    10,623,339,484      branches                  #  211.809 M/sec                  
+       496,352,750      branch-misses             #    4.67% of all branches        
+
+     600.006311142 seconds time elapsed
+

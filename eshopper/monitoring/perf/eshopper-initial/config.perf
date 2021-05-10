@@ -1,0 +1,14 @@
+
+ Performance counter stats for process id '40365':
+
+        420.569025      task-clock (msec)         #    0.001 CPUs utilized          
+            13,291      context-switches          #    0.032 M/sec                  
+             1,637      cpu-migrations            #    0.004 M/sec                  
+               367      page-faults               #    0.873 K/sec                  
+       501,728,702      cycles                    #    1.193 GHz                    
+       133,587,473      instructions              #    0.27  insn per cycle         
+        28,379,488      branches                  #   67.479 M/sec                  
+         3,330,263      branch-misses             #   11.73% of all branches        
+
+     600.003043964 seconds time elapsed
+

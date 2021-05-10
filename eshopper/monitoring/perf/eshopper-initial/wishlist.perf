@@ -1,0 +1,14 @@
+
+ Performance counter stats for process id '2931':
+
+        695.860571      task-clock (msec)         #    0.001 CPUs utilized          
+            14,660      context-switches          #    0.021 M/sec                  
+             2,539      cpu-migrations            #    0.004 M/sec                  
+            11,625      page-faults               #    0.017 M/sec                  
+       895,861,699      cycles                    #    1.287 GHz                    
+       364,155,673      instructions              #    0.41  insn per cycle         
+        72,958,925      branches                  #  104.847 M/sec                  
+         6,088,036      branch-misses             #    8.34% of all branches        
+
+     600.003474574 seconds time elapsed
+

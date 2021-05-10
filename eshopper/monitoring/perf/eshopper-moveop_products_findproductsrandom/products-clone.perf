@@ -1,0 +1,14 @@
+
+ Performance counter stats for process id '32698':
+
+      18235.247933      task-clock (msec)         #    0.038 CPUs utilized          
+            23,519      context-switches          #    0.001 M/sec                  
+             4,206      cpu-migrations            #    0.231 K/sec                  
+           196,702      page-faults               #    0.011 M/sec                  
+    36,199,876,088      cycles                    #    1.985 GHz                    
+    34,930,699,934      instructions              #    0.96  insn per cycle         
+     6,628,198,735      branches                  #  363.483 M/sec                  
+       252,472,951      branch-misses             #    3.81% of all branches        
+
+     600.002631624 seconds time elapsed
+

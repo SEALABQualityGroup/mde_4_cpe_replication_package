@@ -1,0 +1,14 @@
+
+ Performance counter stats for process id '29570':
+
+      42119.035786      task-clock (msec)         #    0.088 CPUs utilized          
+           163,874      context-switches          #    0.004 M/sec                  
+            38,522      cpu-migrations            #    0.915 K/sec                  
+         1,221,760      page-faults               #    0.029 M/sec                  
+    56,801,939,557      cycles                    #    1.349 GHz                    
+    46,151,115,984      instructions              #    0.81  insn per cycle         
+     8,846,930,751      branches                  #  210.046 M/sec                  
+       417,953,273      branch-misses             #    4.72% of all branches        
+
+     600.005465437 seconds time elapsed
+

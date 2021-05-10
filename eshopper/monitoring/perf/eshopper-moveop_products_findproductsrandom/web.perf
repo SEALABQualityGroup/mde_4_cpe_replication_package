@@ -1,0 +1,14 @@
+
+ Performance counter stats for process id '29928':
+
+     460841.731937      task-clock (msec)         #    0.960 CPUs utilized          
+           104,823      context-switches          #    0.227 K/sec                  
+            23,807      cpu-migrations            #    0.052 K/sec                  
+         2,630,672      page-faults               #    0.006 M/sec                  
+   825,325,392,209      cycles                    #    1.791 GHz                    
+ 1,724,552,042,396      instructions              #    2.09  insn per cycle         
+   243,697,973,771      branches                  #  528.811 M/sec                  
+     1,661,194,764      branch-misses             #    0.68% of all branches        
+
+     600.004213703 seconds time elapsed
+

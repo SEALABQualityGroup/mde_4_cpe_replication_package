@@ -1,0 +1,14 @@
+
+ Performance counter stats for process id '16362':
+
+        663.095308      task-clock (msec)         #    0.001 CPUs utilized          
+            14,517      context-switches          #    0.022 M/sec                  
+             2,289      cpu-migrations            #    0.003 M/sec                  
+               817      page-faults               #    0.001 M/sec                  
+       846,468,545      cycles                    #    1.277 GHz                    
+       303,160,197      instructions              #    0.36  insn per cycle         
+        61,015,207      branches                  #   92.016 M/sec                  
+         5,886,850      branch-misses             #    9.65% of all branches        
+
+     600.003391631 seconds time elapsed
+

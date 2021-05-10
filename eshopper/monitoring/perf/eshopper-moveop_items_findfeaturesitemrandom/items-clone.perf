@@ -1,0 +1,14 @@
+
+ Performance counter stats for process id '26940':
+
+      20668.760127      task-clock (msec)         #    0.043 CPUs utilized          
+            24,881      context-switches          #    0.001 M/sec                  
+             5,090      cpu-migrations            #    0.246 K/sec                  
+           167,972      page-faults               #    0.008 M/sec                  
+    41,811,733,002      cycles                    #    2.023 GHz                    
+    40,261,820,789      instructions              #    0.96  insn per cycle         
+     7,684,241,994      branches                  #  371.781 M/sec                  
+       286,956,486      branch-misses             #    3.73% of all branches        
+
+     600.002973541 seconds time elapsed
+

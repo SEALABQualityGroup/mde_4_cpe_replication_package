@@ -1,0 +1,14 @@
+
+ Performance counter stats for process id '12260':
+
+     460403.941236      task-clock (msec)         #    0.959 CPUs utilized          
+           112,636      context-switches          #    0.245 K/sec                  
+            26,999      cpu-migrations            #    0.059 K/sec                  
+         3,182,447      page-faults               #    0.007 M/sec                  
+   820,131,237,285      cycles                    #    1.781 GHz                    
+ 1,851,795,634,143      instructions              #    2.26  insn per cycle         
+   284,645,027,530      branches                  #  618.251 M/sec                  
+     2,016,128,351      branch-misses             #    0.71% of all branches        
+
+     600.004950864 seconds time elapsed
+

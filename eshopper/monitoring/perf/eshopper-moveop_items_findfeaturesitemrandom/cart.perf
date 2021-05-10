@@ -1,0 +1,14 @@
+
+ Performance counter stats for process id '25657':
+
+        663.801452      task-clock (msec)         #    0.001 CPUs utilized          
+            14,547      context-switches          #    0.022 M/sec                  
+             2,185      cpu-migrations            #    0.003 M/sec                  
+             2,067      page-faults               #    0.003 M/sec                  
+       816,815,149      cycles                    #    1.231 GHz                    
+       293,197,939      instructions              #    0.36  insn per cycle         
+        59,555,941      branches                  #   89.720 M/sec                  
+         5,777,606      branch-misses             #    9.70% of all branches        
+
+     600.002750267 seconds time elapsed
+

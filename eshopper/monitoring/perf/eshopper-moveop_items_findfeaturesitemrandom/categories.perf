@@ -1,0 +1,14 @@
+
+ Performance counter stats for process id '26539':
+
+      16420.230551      task-clock (msec)         #    0.034 CPUs utilized          
+            34,752      context-switches          #    0.002 M/sec                  
+             7,291      cpu-migrations            #    0.444 K/sec                  
+           282,307      page-faults               #    0.017 M/sec                  
+    29,240,539,958      cycles                    #    1.781 GHz                    
+    25,803,225,201      instructions              #    0.88  insn per cycle         
+     5,458,986,427      branches                  #  332.455 M/sec                  
+       172,880,390      branch-misses             #    3.17% of all branches        
+
+     600.004959032 seconds time elapsed
+

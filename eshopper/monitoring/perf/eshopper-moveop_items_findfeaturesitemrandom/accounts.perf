@@ -1,0 +1,14 @@
+
+ Performance counter stats for process id '27343':
+
+        626.805438      task-clock (msec)         #    0.001 CPUs utilized          
+            14,554      context-switches          #    0.023 M/sec                  
+             2,122      cpu-migrations            #    0.003 M/sec                  
+               928      page-faults               #    0.001 M/sec                  
+       769,217,037      cycles                    #    1.227 GHz                    
+       273,568,718      instructions              #    0.36  insn per cycle         
+        56,145,892      branches                  #   89.575 M/sec                  
+         5,430,073      branch-misses             #    9.67% of all branches        
+
+     600.004746733 seconds time elapsed
+

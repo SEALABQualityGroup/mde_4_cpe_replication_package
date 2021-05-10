@@ -1,0 +1,14 @@
+
+ Performance counter stats for process id '3901':
+
+     197077.338602      task-clock (msec)         #    0.411 CPUs utilized          
+            57,791      context-switches          #    0.293 K/sec                  
+            12,214      cpu-migrations            #    0.062 K/sec                  
+         1,986,087      page-faults               #    0.010 M/sec                  
+   489,918,369,926      cycles                    #    2.486 GHz                    
+ 1,127,621,527,539      instructions              #    2.30  insn per cycle         
+   174,675,303,625      branches                  #  886.329 M/sec                  
+     1,140,248,330      branch-misses             #    0.65% of all branches        
+
+     600.004778161 seconds time elapsed
+

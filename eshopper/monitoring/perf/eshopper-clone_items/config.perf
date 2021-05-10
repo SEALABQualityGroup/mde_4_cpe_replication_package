@@ -1,0 +1,14 @@
+
+ Performance counter stats for process id '14569':
+
+        429.199002      task-clock (msec)         #    0.001 CPUs utilized          
+            13,293      context-switches          #    0.031 M/sec                  
+             2,012      cpu-migrations            #    0.005 M/sec                  
+               188      page-faults               #    0.438 K/sec                  
+       514,588,018      cycles                    #    1.199 GHz                    
+       130,264,858      instructions              #    0.25  insn per cycle         
+        27,883,401      branches                  #   64.966 M/sec                  
+         3,279,034      branch-misses             #   11.76% of all branches        
+
+     600.003072975 seconds time elapsed
+

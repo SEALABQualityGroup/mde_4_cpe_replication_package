@@ -1,0 +1,14 @@
+
+ Performance counter stats for process id '7129':
+
+     194602.880077      task-clock (msec)         #    0.405 CPUs utilized          
+            57,816      context-switches          #    0.297 K/sec                  
+            12,436      cpu-migrations            #    0.064 K/sec                  
+         1,011,551      page-faults               #    0.005 M/sec                  
+   486,156,149,945      cycles                    #    2.498 GHz                    
+ 1,122,450,993,098      instructions              #    2.31  insn per cycle         
+   173,470,976,031      branches                  #  891.410 M/sec                  
+     1,195,034,794      branch-misses             #    0.69% of all branches        
+
+     600.004834360 seconds time elapsed
+

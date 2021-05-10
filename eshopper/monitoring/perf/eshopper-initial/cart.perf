@@ -1,0 +1,14 @@
+
+ Performance counter stats for process id '2160':
+
+        883.641912      task-clock (msec)         #    0.002 CPUs utilized          
+            14,693      context-switches          #    0.017 M/sec                  
+             2,665      cpu-migrations            #    0.003 M/sec                  
+             7,998      page-faults               #    0.009 M/sec                  
+     1,324,881,241      cycles                    #    1.499 GHz                    
+       886,676,274      instructions              #    0.67  insn per cycle         
+       163,733,946      branches                  #  185.294 M/sec                  
+        10,287,552      branch-misses             #    6.28% of all branches        
+
+     600.002673296 seconds time elapsed
+

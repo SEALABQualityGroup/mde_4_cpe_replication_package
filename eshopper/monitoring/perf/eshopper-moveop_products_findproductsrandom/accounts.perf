@@ -1,0 +1,14 @@
+
+ Performance counter stats for process id '31383':
+
+        689.757661      task-clock (msec)         #    0.001 CPUs utilized          
+            14,413      context-switches          #    0.021 M/sec                  
+             2,138      cpu-migrations            #    0.003 M/sec                  
+             4,241      page-faults               #    0.006 M/sec                  
+     1,001,362,887      cycles                    #    1.452 GHz                    
+       537,505,192      instructions              #    0.54  insn per cycle         
+       104,596,711      branches                  #  151.643 M/sec                  
+         8,037,462      branch-misses             #    7.68% of all branches        
+
+     600.004880305 seconds time elapsed
+

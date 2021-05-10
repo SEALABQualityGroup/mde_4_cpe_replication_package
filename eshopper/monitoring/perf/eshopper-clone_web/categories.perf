@@ -1,0 +1,14 @@
+
+ Performance counter stats for process id '7831':
+
+      10741.513549      task-clock (msec)         #    0.022 CPUs utilized          
+            35,663      context-switches          #    0.003 M/sec                  
+             5,029      cpu-migrations            #    0.468 K/sec                  
+           270,925      page-faults               #    0.025 M/sec                  
+    14,517,748,426      cycles                    #    1.352 GHz                    
+    11,716,327,545      instructions              #    0.81  insn per cycle         
+     2,311,346,061      branches                  #  215.179 M/sec                  
+        91,061,533      branch-misses             #    3.94% of all branches        
+
+     600.003618092 seconds time elapsed
+

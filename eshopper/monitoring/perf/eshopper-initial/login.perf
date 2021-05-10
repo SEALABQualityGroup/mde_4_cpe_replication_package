@@ -1,0 +1,14 @@
+
+ Performance counter stats for process id '2207':
+
+        694.275101      task-clock (msec)         #    0.001 CPUs utilized          
+            14,650      context-switches          #    0.021 M/sec                  
+             2,402      cpu-migrations            #    0.003 M/sec                  
+             3,914      page-faults               #    0.006 M/sec                  
+       890,082,171      cycles                    #    1.282 GHz                    
+       384,643,471      instructions              #    0.43  insn per cycle         
+        76,802,190      branches                  #  110.622 M/sec                  
+         6,476,151      branch-misses             #    8.43% of all branches        
+
+     600.003753095 seconds time elapsed
+

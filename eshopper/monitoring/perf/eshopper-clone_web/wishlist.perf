@@ -1,0 +1,14 @@
+
+ Performance counter stats for process id '8086':
+
+        511.267319      task-clock (msec)         #    0.001 CPUs utilized          
+            14,233      context-switches          #    0.028 M/sec                  
+             2,391      cpu-migrations            #    0.005 M/sec                  
+               754      page-faults               #    0.001 M/sec                  
+       603,027,652      cycles                    #    1.179 GHz                    
+       167,120,298      instructions              #    0.28  insn per cycle         
+        35,285,104      branches                  #   69.015 M/sec                  
+         4,029,962      branch-misses             #   11.42% of all branches        
+
+     600.003384630 seconds time elapsed
+

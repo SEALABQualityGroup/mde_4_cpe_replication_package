@@ -1,0 +1,14 @@
+
+ Performance counter stats for process id '9908':
+
+      38935.721654      task-clock (msec)         #    0.081 CPUs utilized          
+           136,881      context-switches          #    0.004 M/sec                  
+            21,553      cpu-migrations            #    0.554 K/sec                  
+           696,934      page-faults               #    0.018 M/sec                  
+    51,846,497,536      cycles                    #    1.332 GHz                    
+    43,839,162,603      instructions              #    0.85  insn per cycle         
+     8,640,737,983      branches                  #  221.923 M/sec                  
+       362,609,188      branch-misses             #    4.20% of all branches        
+
+     600.004825644 seconds time elapsed
+

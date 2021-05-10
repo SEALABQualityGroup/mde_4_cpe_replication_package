@@ -1,0 +1,14 @@
+
+ Performance counter stats for process id '32575':
+
+      13552.508369      task-clock (msec)         #    0.028 CPUs utilized          
+            33,155      context-switches          #    0.002 M/sec                  
+             6,276      cpu-migrations            #    0.463 K/sec                  
+           305,838      page-faults               #    0.023 M/sec                  
+    22,958,386,550      cycles                    #    1.694 GHz                    
+    19,675,342,064      instructions              #    0.86  insn per cycle         
+     3,886,473,210      branches                  #  286.772 M/sec                  
+       160,482,691      branch-misses             #    4.13% of all branches        
+
+     600.004517503 seconds time elapsed
+

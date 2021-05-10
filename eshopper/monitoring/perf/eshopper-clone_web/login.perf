@@ -1,0 +1,14 @@
+
+ Performance counter stats for process id '8712':
+
+        519.905572      task-clock (msec)         #    0.001 CPUs utilized          
+            14,256      context-switches          #    0.027 M/sec                  
+             2,276      cpu-migrations            #    0.004 M/sec                  
+               829      page-faults               #    0.002 M/sec                  
+       609,620,454      cycles                    #    1.173 GHz                    
+       177,889,419      instructions              #    0.29  insn per cycle         
+        37,333,029      branches                  #   71.807 M/sec                  
+         4,044,636      branch-misses             #   10.83% of all branches        
+
+     600.003575200 seconds time elapsed
+

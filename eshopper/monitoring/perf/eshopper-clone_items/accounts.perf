@@ -1,0 +1,14 @@
+
+ Performance counter stats for process id '16235':
+
+        704.941057      task-clock (msec)         #    0.001 CPUs utilized          
+            14,586      context-switches          #    0.021 M/sec                  
+             2,406      cpu-migrations            #    0.003 M/sec                  
+             2,977      page-faults               #    0.004 M/sec                  
+       955,274,782      cycles                    #    1.355 GHz                    
+       464,294,604      instructions              #    0.49  insn per cycle         
+        90,054,380      branches                  #  127.747 M/sec                  
+         7,234,163      branch-misses             #    8.03% of all branches        
+
+     600.003562465 seconds time elapsed
+

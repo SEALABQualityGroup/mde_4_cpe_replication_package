@@ -1,0 +1,14 @@
+
+ Performance counter stats for process id '1941':
+
+      40384.656245      task-clock (msec)         #    0.084 CPUs utilized          
+           131,464      context-switches          #    0.003 M/sec                  
+            24,698      cpu-migrations            #    0.612 K/sec                  
+           715,182      page-faults               #    0.018 M/sec                  
+    56,010,944,711      cycles                    #    1.387 GHz                    
+    47,277,409,352      instructions              #    0.84  insn per cycle         
+     9,338,860,393      branches                  #  231.248 M/sec                  
+       367,390,239      branch-misses             #    3.93% of all branches        
+
+     600.004441353 seconds time elapsed
+
