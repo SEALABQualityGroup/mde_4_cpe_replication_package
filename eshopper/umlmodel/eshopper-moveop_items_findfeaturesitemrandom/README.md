@@ -1,4 +1,4 @@
-# E-Shopper UML models - Move Operation item_findfeatureitemsrandom
+# E-Shopper UML models - Move Operation Items findfeatureitemsrandom
 
 Static View through UML Component Diagram
 
