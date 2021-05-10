@@ -11,7 +11,7 @@ Dynamic View through UML Use Case Diagram
 
 Sequence Diagram of the Scenario "Rebook a Ticket"
 
-![rebook a ticket](Rebook a ticket.png)
+![rebook a ticket](<Rebook a ticket.png>)
 
 
 Deployment View through UML Deployment Diagram
