@@ -1,4 +1,4 @@
-# E-Shopper UML models - Moveop SSO login
+# Train-Ticket UML models - Moveop SSO login
 
 Static View through UML Component Diagram
 
