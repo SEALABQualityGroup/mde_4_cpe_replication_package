@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4756322.svg)](https://doi.org/10.5281/zenodo.4756322)
+
 Replication package for the article:
 
 Vittorio Cortellessa, Daniele Di Pompeo, Romina Eramo, Michele Tucci,  
